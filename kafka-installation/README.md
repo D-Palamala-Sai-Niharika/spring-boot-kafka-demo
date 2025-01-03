@@ -95,3 +95,6 @@
 ```kafka-console-producer.sh --topic kafkademo --bootstrap-server localhost:9092```
 ### Start consumer app (CLI)
 ```kafka-console-consumer.sh --topic kafkademo --from-beginning --bootstrap-server localhost:9092```
+
+# kafka in KRaft mode
+- https://kafka.apache.org/quickstart
